@@ -1,0 +1,24 @@
+.list {
+position: absolute;
+top: 8%;
+left: 15%;
+font-family: system-ui , sans-serif;
+font-size: 25px;
+background-color: #54e319;
+color:  #0c1df5 ;
+border: solid 5px;
+border-style: solid;
+border-color: ##e5e929;
+border-radius: 10px;
+padding : 5px;
+}
+
+.list a{
+  color: #fff ;font-size: 14px;background-color: #002b36 ;
+  text-decoration: none;
+  font-size: 23px;
+}
+
+.list a:hover {
+	background-color: #eb261a;
+}
